@@ -1,0 +1,111 @@
+{
+  "title": "ZentryBot - Crypto Community Engagement Platform",
+  "description": "Comprehensive documentation for ZentryBot, the leading NFT-gated platform for crypto community engagement and marketing through Telegram bot networks.",
+  "author": "ZentryBot Team",
+  "language": "en",
+  "gitbook": "3.2.3",
+  "root": ".",
+  "structure": {
+    "readme": "README.md",
+    "summary": "SUMMARY.md"
+  },
+  "plugins": [
+    "theme-default",
+    "search",
+    "sharing",
+    "fontsettings",
+    "highlight",
+    "copy-code-button",
+    "expandable-chapters",
+    "back-to-top-button",
+    "page-toc-button",
+    "anchors",
+    "edit-link",
+    "github",
+    "splitter"
+  ],
+  "pluginsConfig": {
+    "theme-default": {
+      "showLevel": true
+    },
+    "sharing": {
+      "facebook": true,
+      "twitter": true,
+      "linkedin": true,
+      "telegram": true,
+      "all": [
+        "facebook",
+        "twitter",
+        "linkedin",
+        "telegram",
+        "copy"
+      ]
+    },
+    "fontsettings": {
+      "theme": "white",
+      "family": "sans",
+      "size": 2
+    },
+    "highlight": {
+      "theme": "github"
+    },
+    "search": {
+      "maxIndexSize": 1000000
+    },
+    "edit-link": {
+      "base": "https://github.com/zentrybot/docs/edit/main",
+      "label": "Edit This Page"
+    },
+    "github": {
+      "url": "https://github.com/zentrybot/zentrybot"
+    },
+    "page-toc-button": {
+      "maxTocDepth": 3,
+      "minTocSize": 2
+    }
+  },
+  "variables": {
+    "platform_name": "ZentryBot",
+    "nft_supply": "1,717",
+    "token_supply": "1,000,000",
+    "token_symbol": "$ZENT",
+    "blockchain": "XRPL",
+    "website": "https://www.zentrybot.xyz/",
+    "discord": "https://discord.com/invite/gMQdtmYk3X",
+    "telegram": "https://t.me/zentrybotz",
+    "twitter": "https://x.com/zentrybotx"
+  },
+  "pdf": {
+    "pageNumbers": true,
+    "fontSize": 12,
+    "fontFamily": "Arial",
+    "paperSize": "a4",
+    "chapterMark": "pagebreak",
+    "pageBreaksBefore": "/",
+    "margin": {
+      "right": 62,
+      "left": 62,
+      "top": 56,
+      "bottom": 56
+    }
+  },
+  "styles": {
+    "website": "styles/website.css",
+    "pdf": "styles/pdf.css",
+    "epub": "styles/epub.css",
+    "mobi": "styles/mobi.css"
+  },
+  "links": {
+    "sidebar": {
+      "🌐 Official Website": "https://www.zentrybot.xyz/",
+      "💬 Discord Community": "https://discord.com/invite/gMQdtmYk3X",
+      "📱 Telegram": "https://t.me/zentrybotz",
+      "🐦 Twitter": "https://x.com/zentrybotx"
+    },
+    "sharing": {
+      "facebook": "https://www.facebook.com/zentrybot",
+      "twitter": "https://x.com/zentrybotx",
+      "linkedin": "https://www.linkedin.com/company/zentrybot"
+    }
+  }
+}
