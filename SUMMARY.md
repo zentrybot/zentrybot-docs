@@ -1,12 +1,55 @@
-# Table of Contents
+# Table of contents
 
 ## Introduction
 
-* [Welcome to ZentryBot](README.md)
-* [Platform Overview](overview.md)
+* [⚡ Welcome to ZentryBot](README.md)
+* [💎 Platform Overview](overview.md)
 
 ## For Investors
 
+* [🤔 Investment Guide](investment-guide.md)
+* [🧰 Business Model](business-model.md)
+* [🚀 Development Roadmap](roadmap.md)
+
+## For NFT Holders
+
+* [💻 NFT Utility & Benefits](nft-utility.md)
+* [💵 Tokenomics](tokenomics.md)
+
+## Technical Documentation
+
+* [🛠️ Technical Overview](technical-overview.md)
+
+## Support
+
+* [⚙️ Bot Configuration Tutorial](bot-configuration-tutorial.md)
+* [🚨 Frequently Asked Questions](faq.md)
+
+## 🛸 Getting Started
+
+* [Platform Overview](overview.md)
+* [Investment Guide](investment-guide.md)
+* [NFT Utility & Benefits](nft-utility.md)
+
+## 💰 Investment Information
+
+* [Business Model](business-model.md)
+* [Tokenomics](tokenomics.md)
+
+## 🔧 Technical Details
+
+* [Technical Overview](technical-overview.md)
+* [Development Roadmap](roadmap.md)
+
+## ❓ Need Help?
+
+* [Bot Configuration Tutorial](bot-configuration-tutorial.md)
+* [FAQ](faq.md)
+* [Contact Information](README.md#community-links)
+
+## For Potential Investors
+
+* [Platform Overview](overview.md)
 * [Investment Guide](investment-guide.md)
 * [Business Model](business-model.md)
 * [Development Roadmap](roadmap.md)
@@ -15,84 +58,34 @@
 
 * [NFT Utility & Benefits](nft-utility.md)
 * [Tokenomics](tokenomics.md)
+* [FAQ](faq.md)
 
-## Technical Documentation
+## For Technical Audience
 
 * [Technical Overview](technical-overview.md)
+* [Implementation: Technical details and security measures](for-technical-audience/implementation-technical-details-and-security-measures.md)
+* [Scalability: Performance and growth considerations](for-technical-audience/scalability-performance-and-growth-considerations.md)
 
-## Support
+## ✅ Proven Platform
 
-* [Bot Configuration Tutorial](bot-configuration-tutorial.md)
-* [Frequently Asked Questions](faq.md)
+* [Live Product: Working platform with hundreds of active users](proven-platform/live-product-working-platform-with-hundreds-of-active-users.md)
+* [Real Utility: Actual value delivery through Telegram bot network](proven-platform/real-utility-actual-value-delivery-through-telegram-bot-network.md)
+* [Revenue Generation: Multiple active revenue streams](proven-platform/revenue-generation-multiple-active-revenue-streams.md)
 
----
+## 🎯 Investment Opportunity
 
-## Quick Navigation
+* [Zentry NFTs: 1,717 NFTs with lifetime platform access](investment-opportunity/zentry-nfts-1-717-nfts-with-lifetime-platform-access.md)
+* [$ZENT Token: 1,000,000 fixed supply with revenue sharing](investment-opportunity/usdzent-token-1-000-000-fixed-supply-with-revenue-sharing.md)
+* [Market Position: Leading XRPL marketing tools platform](investment-opportunity/market-position-leading-xrpl-marketing-tools-platform.md)
 
-### 🚀 Getting Started
-- New to ZentryBot? Start with [Platform Overview](overview.md)
-- Ready to invest? Check the [Investment Guide](investment-guide.md)
-- Want to understand NFT benefits? Read [NFT Utility & Benefits](nft-utility.md)
+## 🔒 Security & Trust
 
-### 💰 Investment Information
-- [Business Model](business-model.md) - Revenue streams and sustainability
-- [Tokenomics](tokenomics.md) - $ZENT token economics and distribution
+* [Blockchain Verification: XRPL-based authentication and ownership](security-and-trust/blockchain-verification-xrpl-based-authentication-and-ownership.md)
+* [Transparent Tokenomics: Clear distribution and fair launch](security-and-trust/transparent-tokenomics-clear-distribution-and-fair-launch.md)
+* [Community Focus: Strong community engagement and governance](security-and-trust/community-focus-strong-community-engagement-and-governance.md)
 
-### 🔧 Technical Details
-- [Technical Overview](technical-overview.md) - Platform architecture and implementation
-- [Development Roadmap](roadmap.md) - Future development plans and milestones
+## 📈 Growth Potential
 
-### ❓ Need Help?
-- [Bot Configuration Tutorial](bot-configuration-tutorial.md) - Step-by-step bot setup guide
-- [FAQ](faq.md) - Common questions and answers
-- [Contact Information](README.md#community-links) - How to reach us
-
----
-
-## Document Structure
-
-This GitBook documentation is organized to serve different audiences:
-
-### For Potential Investors
-1. **Start Here**: [Platform Overview](overview.md) for understanding the project
-2. **Investment Analysis**: [Investment Guide](investment-guide.md) for investment strategies
-3. **Due Diligence**: [Business Model](business-model.md)
-4. **Future Plans**: [Development Roadmap](roadmap.md) for growth trajectory
-
-### For NFT Holders
-1. **Utility Understanding**: [NFT Utility & Benefits](nft-utility.md) for NFT value proposition
-2. **Token Economics**: [Tokenomics](tokenomics.md) for $ZENT token details
-3. **Platform Usage**: [FAQ](faq.md) for practical questions
-
-### For Technical Audience
-1. **Architecture**: [Technical Overview](technical-overview.md) for system design
-2. **Implementation**: Technical details and security measures
-3. **Scalability**: Performance and growth considerations
-
----
-
-## Key Highlights
-
-### ✅ Proven Platform
-- **Live Product**: Working platform with hundreds of active users
-- **Real Utility**: Actual value delivery through Telegram bot network
-- **Revenue Generation**: Multiple active revenue streams
-
-### 🎯 Investment Opportunity
-- **Zentry NFTs**: 1,717 NFTs with lifetime platform access
-- **$ZENT Token**: 1,000,000 fixed supply with revenue sharing
-- **Market Position**: Leading XRPL marketing tools platform
-
-### 🔒 Security & Trust
-- **Blockchain Verification**: XRPL-based authentication and ownership
-- **Transparent Tokenomics**: Clear distribution and fair launch
-- **Community Focus**: Strong community engagement and governance
-
-### 📈 Growth Potential
-- **Expanding Market**: Growing crypto marketing and community management sector
-- **Scalable Architecture**: Built for high-volume usage and growth
-- **Multi-Platform Vision**: Discord, cross-chain, and enterprise expansion
-
----
-
-*This documentation is designed to provide comprehensive information about ZentryBot for investors, NFT holders, and technical audiences. Each section builds upon the previous to create a complete picture of the platform's value proposition, technical implementation, and growth potential.*
+* [Expanding Market: Growing crypto marketing and community management sector](growth-potential/expanding-market-growing-crypto-marketing-and-community-management-sector.md)
+* [Scalable Architecture: Built for high-volume usage and growth](growth-potential/scalable-architecture-built-for-high-volume-usage-and-growth.md)
+* [Multi-Platform Vision: Discord, cross-chain, and enterprise expansion](growth-potential/multi-platform-vision-discord-cross-chain-and-enterprise-expansion.md)
